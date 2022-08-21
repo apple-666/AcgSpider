@@ -1,1 +1,3 @@
-# AcgSpider
+# AcgSpider 介绍
+在Acg 网站上，自动爬取流量最高的游戏，生成链接，直接访问
+
