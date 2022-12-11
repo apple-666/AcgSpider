@@ -45,6 +45,27 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\Spider_2_for_2048\spider_2048_v2.py">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Spider_2_for_2048\spider_2048_v2_for3d.py">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Spider_2_for_2048\spider_2048_v2_forCV.py">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\getCookie.py">
           <value>
             <Attribute>
